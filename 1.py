@@ -25,8 +25,7 @@
 # playsound('C:\\Users\\dell\\Downloads\\Love Stereo Again - Tiger Shroff 128 Kbps.mp3')
 
 
-# https://youtube.com/shorts/gV7b24uH2IQ?feature=share
-# https://youtube.com/shorts/3dP5rVA6-Tk?feature=share
+
 
 
 # a=input('enter num1 :')
